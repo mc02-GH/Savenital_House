@@ -4,7 +4,13 @@ I will put something useful or useless i made in here
 [Website](http://server.gt.tc)
 
 ```csharp
-Console.WriteLine("hello");
+using System;
+namespace b;
+public static class a{
+  public static void Main(){
+    Console.WriteLine("hello");
+  }
+}
 
 ```
 ```c
